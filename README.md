@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bluerie
+- 👀 I’m interested in game development and modding
+- 🌱 I’m currently learning to effectively use Unity
+- 💞️ I’m looking to collaborate on sci-fi motorbikes
+- 📫 Reach me on Discord @Bluerie#0384
